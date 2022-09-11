@@ -34,7 +34,7 @@
 // Console.Write("Введите координату точки B по Y: ");
 // int BY = Convert.ToInt32(Console.ReadLine());
 
-// Console.Write("Введите координату точки А по Z: ");
+// Console.Write("Введите координату точки B по Z: ");
 // int BZ = Convert.ToInt32(Console.ReadLine());
 
 // double legthAB = Math.Sqrt((Math.Pow(BХ-АХ,2) + Math.Pow(BY-АY,2) + Math.Pow(BZ-АZ,2)));
